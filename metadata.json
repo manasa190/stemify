@@ -1,0 +1,7 @@
+{
+  "name": "STEMIFY: Stem Disease AI",
+  "description": "An advanced STEM disease identification and management platform using deep learning and Gemini Vision API for real-time agricultural diagnosis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
