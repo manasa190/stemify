@@ -56,5 +56,3 @@ STEMIFY is a precision agricultural decision-support system designed to identify
 ---
 *Developed for Institutional Agricultural Research & Field Validation.*
 =======
-# stemify
->>>>>>> 2ecf5b0419ea58e187dde2dd8369a83411dcd1bf
